@@ -23,3 +23,17 @@ print('Sua media foi {:.2f}'  .format(nota))
 print('Parabéns sua nota está acima da média' if nota>=7  else 'Infelizmente sua nota está abaixo da média')
 
 
+def numeros_pares():
+    lista_pares = []
+    numero = 2
+
+    while len(lista_pares) < 100:
+        lista_pares.append(numero)
+        numero += 2
+
+    return lista_pares
+
+lista_de_pares = numeros_pares()
+print(lista_de_pares)
+
+
