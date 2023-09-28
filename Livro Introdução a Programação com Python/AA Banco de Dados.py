@@ -6,7 +6,6 @@ conexao = mysql.connector.connect(
     password="password",
     database="AA"
 )
-
 cursor = conexao.cursor()
 
 consulta = """
