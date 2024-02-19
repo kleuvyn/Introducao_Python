@@ -38,3 +38,12 @@ Dentro de cada loop, você pode usar as instruções break e continue para contr
 
 Exemplo de uso de break:
 '''
+for i in range(10):
+    if i == 5:
+        break
+    print(i)
+    
+for i in range(10):
+    if i % 2 == 0:
+        continue
+    print(i)
