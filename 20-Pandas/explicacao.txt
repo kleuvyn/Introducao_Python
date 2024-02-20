@@ -1,0 +1,24 @@
+Pandas é uma biblioteca popular de manipulação e análise de dados. Ela fornece estruturas de dados de alto desempenho e fáceis de usar, além de ferramentas para manipular e analisar conjuntos de dados de forma eficiente.
+
+    -Estruturas de Dados:
+        O pandas oferece duas principais estruturas de dados: Series e DataFrame.
+            Series: Uma série é uma matriz unidimensional rotulada capaz de armazenar qualquer tipo de dado.
+            DataFrame: Um DataFrame é uma estrutura de dados bidimensional rotulada com colunas de tipos potencialmente diferentes. É semelhante a uma planilha ou tabela de banco de dados SQL.
+
+    -Leitura e Escrita de Dados:
+        O pandas oferece suporte para ler e escrever dados de e para vários formatos, incluindo CSV, Excel, SQL, JSON, HDF5 e muitos outros. Ele fornece funções convenientes, como read_csv(), read_excel(), to_csv(), to_excel(), entre outros.
+
+    -Manipulação de Dados:
+        O pandas fornece uma variedade de funções para manipular dados, incluindo seleção, indexação, filtragem, ordenação, agrupamento, junção, concatenação e pivoteamento de dados. Ele permite realizar operações eficientes em grandes conjuntos de dados de maneira fácil e rápida.
+
+    -Limpeza de Dados:
+        O pandas oferece ferramentas para lidar com dados ausentes (missing data) e valores duplicados. Ele fornece funções para preencher valores ausentes, remover linhas ou colunas com valores ausentes, e identificar e remover duplicatas de dados.
+
+    -Análise de Dados:
+        O pandas oferece várias funcionalidades para análise de dados, incluindo estatísticas descritivas, análise de frequência, resumo de dados, agregação de dados, cálculos estatísticos e muito mais. Ele permite calcular estatísticas resumidas e extrair insights dos dados de maneira eficiente.
+
+    -Visualização de Dados:
+        Embora o pandas não seja uma biblioteca de visualização de dados por si só, ele se integra bem com outras bibliotecas de visualização, como Matplotlib e Seaborn. Ele permite criar visualizações de dados poderosas e informativas a partir de DataFrames e séries.
+
+    -Integração com NumPy:
+        O pandas é construído sobre a biblioteca NumPy, o que significa que muitas operações de NumPy também podem ser aplicadas a objetos pandas. Isso inclui operações de vetorização, aplicação de funções universais, manipulação de matrizes e muito mais.
