@@ -1,0 +1,30 @@
+Dia 1: Escreva um programa que solicite ao usuário que digite seu nome e, em seguida, imprima uma saudação com o nome digitado.
+Dia 2: Escreva um programa que calcule a área de um círculo. O usuário deve fornecer o raio como entrada.
+Dia 3: Escreva um programa que verifique se um número fornecido pelo usuário é par ou ímpar.
+Dia 4: Escreva um programa que converta graus Celsius para Fahrenheit. O usuário deve fornecer a temperatura em Celsius.
+Dia 5: Escreva um programa que solicite ao usuário que insira um número e imprima a tabuada desse número.
+Dia 6: Escreva um programa que calcule a média de três notas fornecidas pelo usuário.
+Dia 7: Escreva um programa que determine se um ano fornecido pelo usuário é bissexto ou não.
+Dia 8: Escreva um programa que peça ao usuário para digitar uma string e imprima-a de trás para frente.
+Dia 9: Escreva um programa que determine se uma palavra fornecida pelo usuário é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+Dia 10: Escreva um programa que gere uma lista de números primos até um determinado número fornecido pelo usuário.
+Dia 11: Escreva um programa que converta um número decimal para binário.
+Dia 12: Escreva um programa que calcule o fatorial de um número fornecido pelo usuário.
+Dia 13: Escreva um programa que conte o número de vogais em uma string fornecida pelo usuário.
+Dia 14: Escreva um programa que ordene uma lista de números fornecidos pelo usuário.
+Dia 15: Escreva um programa que calcule a soma dos dígitos de um número inteiro fornecido pelo usuário.
+Dia 16: Escreva um programa que verifique se uma palavra fornecida pelo usuário é um anagrama de outra palavra.
+Dia 17: Escreva um programa que calcule a raiz quadrada de um número fornecido pelo usuário.
+Dia 18: Escreva um programa que verifique se um número fornecido pelo usuário é um número primo.
+Dia 19: Escreva um programa que ordene uma lista de strings em ordem alfabética.
+Dia 20: Escreva um programa que encontre o maior e o menor elemento em uma lista fornecida pelo usuário.
+Dia 21: Escreva um programa que conte o número de palavras em uma frase fornecida pelo usuário.
+Dia 22: Escreva um programa que verifique se uma sequência de parênteses fornecida pelo usuário está balanceada.
+Dia 23: Escreva um programa que converta uma string em todas as letras maiúsculas.
+Dia 24: Escreva um programa que determine se uma frase fornecida pelo usuário é um pangrama (ou seja, contém todas as letras do alfabeto).
+Dia 25: Escreva um programa que encontre o segundo maior elemento em uma lista fornecida pelo usuário.
+Dia 26: Escreva um programa que remova os elementos duplicados de uma lista fornecida pelo usuário.
+Dia 27: Escreva um programa que conte o número de ocorrências de cada caractere em uma string fornecida pelo usuário.
+Dia 28: Escreva um programa que verifique se duas listas fornecidas pelo usuário têm pelo menos um elemento em comum.
+Dia 29: Escreva um programa que verifique se uma data fornecida pelo usuário é válida.
+Dia 30: Escreva um programa que gere uma sequência de Fibonacci até um determinado número fornecido pelo usuário.
