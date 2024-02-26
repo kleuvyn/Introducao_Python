@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Contato</title>
+</head>
+<body>
+  <header>
+    <nav class="nav-bar menu">
+        <div class="nav-list">
+            
+            <ul> 
+                <a href="index.html" class="nav-item">
+                <img class="imagem_logo" src="/imagens /logok.png" alt="Logo" width="80px">
+                </a>
+        
+                <li  class="nav-item">
+                <a href="eu.html" class="nav-link">Sobre mim</a>
+                </li>
+                        
+                <li  class="nav-item">
+                    <a href="projetos.html"class="nav-link">Projetos</a>
+                </li> 
+        
+                <li class="nav-item" >
+                <a href="certificados.html" class="nav-link">Certificados</a>
+                </li>
+
+            </ul>
+    
+        </div>
+        <div class="mobile-menu-icon">
+            <button onclick="menuShow()" class="botao-menu-mobile">
+            <img class="imagem_logo" src="/imagens /menu.png" alt="">
+            <span class="titulo-menu-mobile">Kleuvyn</span>
+            </button>
+        </div>
+    </nav>
+    <div class="mobile-menu">
+        <ul>
+
+            <li  class="nav-item">
+            <a href="eu.html" class="nav-link">Sobre mim</a>
+            </li>
+    
+            <li  class="nav-item">
+                <a href="projetos.html"class="nav-link">Projetos</a>
+            </li> 
+
+            <li class="nav-item" >
+            <a href="certificados.html" class="nav-link">Certificados</a>
+            </li>
+        </ul>
+    </div>
+</header>
+<section >
+
+  <div class="contato-container">
+    <div class="contato-form">
+
+      <ul>
+        <h2>Contato:</h2>
+        <br><br>
+        <li>📞 Telefone: (61) 98466-0734</li>
+        <br><br>
+      </ul>
+
+      <label for="texto">Nome: </label>
+      <input class="cor" type="text" name="nome" id="texto" placeholder="Informe o seu nome...">
+      <br>
+      <label for="telefone">Telefone: </label>
+      <input class="cor"  type="text" name="telefone" id="telefone" placeholder="(xx) xxxxx-xxxx">
+      <br>
+      <label for="hora">Horário para entrar em contato: </label>
+      <input  class="cor"  type="time" name="hora" id="hora">
+      <br>
+
+      <label for="primeiro-contato">Primeiro Contato: </label>
+      <br><br>
+      <label for="sim">Sim: </label>
+      <input type="radio" name="primeiro-contato" id="sim">
+      <label for="nao">Não: </label>
+      <input class="cor"  type="radio" name="primeiro-contato" id="nao">
+      <br>
+      <label for="mensagem">Mensagem</label>
+      <br><br>
+      <textarea class="cor"  name="mensagem" id="mensagem" cols="50" rows="10" class="text-mensagem"></textarea>
+
+      <button type="button" name="confirmar" id="confirmarBtn">Confirmar</button>
+    </div>
+      
+  </div>
+</section>
+<section class="footer">
+
+  <footer class="footer-conteudo">
+      &copy; 2024 Kleuvyn
+
+  </footer>
+  <script src="script cont.js"></script>
+<body>
+</html>
