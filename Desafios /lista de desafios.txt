@@ -1,117 +1,119 @@
-Dia 1: Criar uma Página de Apresentação:
+Semana 1: Criar uma Página de Apresentação:
 
     Desafio: Crie uma página HTML simples que inclua seu nome, uma breve descrição sobre você e uma imagem de perfil.
     Estilize a página usando CSS para torná-la visualmente atraente.
     Use Python para exibir a página localmente em um servidor simples.
 
-Dia 2: Criar um Portfólio Online:
+Semana 2: Criar um Portfólio Online:
 
     Desafio: Crie uma página HTML que mostre seus projetos pessoais, incluindo imagens, descrições e links para cada projeto.
     Utilize CSS para estilizar o layout do portfólio e destacar os projetos.
     Use Python para adicionar funcionalidades dinâmicas, como carregar projetos de um arquivo de dados ou de um banco de dados.
 
-Dia 3: Criar um Site de Receitas:
+Semana 3: Criar um Site de Receitas:
 
     Desafio: Crie uma página HTML que liste várias receitas de culinária, cada uma com seu próprio título, lista de ingredientes e instruções.
     Estilize a página usando CSS para torná-la fácil de navegar e atraente visualmente.
     Use Python para adicionar uma funcionalidade de busca que permita aos usuários encontrar receitas por nome ou ingrediente.
 
-Dia 4: Criar um Calendário de Eventos:
+Semana 4: Criar um Calendário de Eventos:
 
     Desafio: Crie uma página HTML que exiba um calendário com eventos marcados para datas específicas.
     Estilize o calendário usando CSS para destacar os eventos e tornar a interface intuitiva.
     Use Python para adicionar funcionalidades como adicionar, editar e excluir eventos do calendário.
 
-Dia 5: Criar um Blog de Viagens:
+Semana 5: Criar um Blog de Viagens:
 
     Desafio: Crie uma página HTML que mostre suas experiências de viagem, incluindo fotos, descrições e dicas para cada destino.
     Utilize CSS para estilizar o blog e criar uma atmosfera envolvente para os leitores.
     Use Python para adicionar funcionalidades como comentários de usuários e uma seção de pesquisa por destino.
 
-Dia 6: Criar um Site de Notícias:
+Semana 6: Criar um Site de Notícias:
 
     Desafio: Crie uma página HTML que exiba as últimas notícias em diferentes categorias (por exemplo, tecnologia, esportes, política).
     Estilize a página usando CSS para destacar as manchetes e tornar a leitura agradável.
     Use Python para adicionar funcionalidades como atualização automática de notícias e filtro por categoria.
 
-Dia 7: Criar um Gerenciador de Finanças Pessoais:
+Semana 7: Criar um Gerenciador de Finanças Pessoais:
 
     Desafio: Crie uma página HTML que permita aos usuários registrar suas despesas e receitas, com campos para valor, categoria e data.
     Utilize CSS para estilizar o gerenciador de finanças e facilitar a navegação e entrada de dados.
     Use Python para adicionar funcionalidades como calcular o saldo atual, gerar relatórios e exportar dados para um arquivo.
 
-Dia 8: Criar um Site de Compras Online:
+Semana 8: Criar um Site de Compras Online:
 
     Desafio: Crie uma página HTML que liste diferentes produtos para venda, cada um com sua própria imagem, descrição e preço.
     Estilize a página usando CSS para criar uma experiência de compra agradável e profissional.
     Use Python para adicionar funcionalidades como adicionar produtos ao carrinho, calcular o total da compra e processar pagamentos simulados.
 
-Dia 9: Criar um Site de Avaliação de Filmes:
+Semana 9: Criar um Site de Avaliação de Filmes:
 
     Desafio: Crie uma página HTML que liste filmes populares, cada um com sua própria capa, título, classificação e sinopse.
     Utilize CSS para estilizar o site e destacar as informações mais importantes de cada filme.
     Use Python para adicionar funcionalidades como permitir que os usuários classifiquem filmes, deixem comentários e vejam avaliações médias.
 
-Dia 10: Criar um Gerenciador de Tarefas (To-Do List):
+Semana 10: Criar um Gerenciador de Tarefas (To-Do List):
 - Desafio: Crie uma página HTML que permita aos usuários adicionar novas tarefas com campos para título, descrição e data de vencimento.
 - Estilize a lista de tarefas usando CSS para torná-la fácil de navegar e interagir.
 - Use Python para adicionar funcionalidades como adicionar, editar, excluir tarefas e marcar como concluídas.
 
-Dia 11: Criar um Gerador de Citações Aleatórias:
+Semana 11: Criar um Gerador de Citações Aleatórias:
 
     Desafio: Crie uma página HTML que exiba citações aleatórias sobre diferentes temas (por exemplo, motivação, sucesso, amor).
     Utilize CSS para estilizar a página e destacar as citações de forma atraente.
     Use Python para adicionar funcionalidades como carregar citações de um arquivo de dados e exibir uma citação aleatória quando a página é atualizada.
 
-Dia 12: Criar um Sistema de Reservas de Hotel:
+Semana 12: Criar um Sistema de Reservas de Hotel:
 
     Desafio: Crie uma página HTML que permita aos usuários selecionar datas de check-in e check-out, além de escolher o tipo de quarto desejado.
     Estilize a página usando CSS para torná-la fácil de usar e visualmente atraente.
     Use Python para adicionar funcionalidades como calcular o preço total da reserva e exibir uma confirmação após a reserva ser feita.
 
-Dia 13: Criar um Gerenciador de Contatos Avançado:
+Semana 13: Criar um Gerenciador de Contatos Avançado:
 
-    Desafio: Expanda o gerenciador de contatos do Dia 7 para incluir recursos avançados, como agrupamento de contatos por categoria e busca avançada.
+    Desafio: Expanda o gerenciador de contatos do Semana 
+7 para incluir recursos avançados, como agrupamento de contatos por categoria e busca avançada.
     Utilize CSS para melhorar a aparência e usabilidade do gerenciador de contatos.
     Use Python para implementar as funcionalidades avançadas, como filtrar contatos por categoria e pesquisa por palavra-chave.
 
-Dia 14: Criar um Sistema de Pesquisa de Livros:
+Semana 14: Criar um Sistema de Pesquisa de Livros:
 
     Desafio: Crie uma página HTML que permita aos usuários pesquisar livros por título, autor ou categoria.
     Estilize a página usando CSS para tornar a pesquisa intuitiva e agradável visualmente.
     Use Python para adicionar funcionalidades como recuperar informações de livros de uma API pública (por exemplo, Google Books API) e exibir os resultados da pesquisa.
 
-Dia 15: Criar um Gerador de QR Code Personalizado:
+Semana 15: Criar um Gerador de QR Code Personalizado:
 
     Desafio: Crie uma página HTML que permita aos usuários gerar QR codes personalizados para URLs, mensagens de texto ou informações de contato.
     Utilize CSS para estilizar a página e os QR codes gerados.
     Use Python para adicionar funcionalidades de geração de QR code e permitir que os usuários baixem o QR code gerado.
 
-Dia 16: Criar um Sistema de Registro de Eventos:
+Semana 16: Criar um Sistema de Registro de Eventos:
 
     Desafio: Crie uma página HTML que permita aos usuários registrar eventos futuros, incluindo nome do evento, data, local e descrição.
     Estilize a página usando CSS para destacar os eventos e tornar a entrada de dados fácil.
     Use Python para adicionar funcionalidades como adicionar, editar e excluir eventos registrados e exibir uma lista de eventos futuros.
 
-Dia 17: Criar um Gerador de Senhas Seguras:
+Semana 17: Criar um Gerador de Senhas Seguras:
 
     Desafio: Crie uma página HTML que permita aos usuários gerar senhas seguras com opções para comprimento e tipos de caracteres.
     Estilize a página usando CSS para tornar as opções de geração de senha claras e fáceis de usar.
     Use Python para implementar a lógica de geração de senhas e exibir a senha gerada na página.
 
-Dia 18: Criar um Sistema de Avaliação de Restaurantes:
+Semana 18: Criar um Sistema de Avaliação de Restaurantes:
 
     Desafio: Crie uma página HTML que permita aos usuários avaliar restaurantes com base em diferentes critérios, como comida, serviço e ambiente.
     Utilize CSS para estilizar a página e destacar as avaliações de forma visualmente atraente.
-    Use Python para adicionar funcionalidades como calcular a média das avaliações e exibir as avaliações dos usuários.
+    Use Python para adicionar funcionalidades como calcular a méSemana 
+das avaliações e exibir as avaliações dos usuários.
 
-Dia 19: Criar um Gerador de Cartões de Visita:
+Semana 19: Criar um Gerador de Cartões de Visita:
 
     Desafio: Crie uma página HTML que permita aos usuários criar cartões de visita personalizados com campos para nome, cargo, empresa e informações de contato.
     Estilize a página usando CSS para tornar a criação de cartões de visita intuitiva e esteticamente agradável.
     Use Python para gerar um arquivo PDF do cartão de visita com as informações inseridas pelos usuários.
 
-Dia 20: Criar um Site de Adivinhação de Números:
+Semana 20: Criar um Site de Adivinhação de Números:
 
     Desafio: Crie uma página HTML que permita aos usuários jogar um jogo de adivinhação de números, onde eles tentam adivinhar um número gerado aleatoriamente.
     Estilize a página usando CSS para tornar o jogo divertido e envolvente.
